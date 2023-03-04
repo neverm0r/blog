@@ -5,3 +5,7 @@
 	path = myblog/public
 	url = https://github.com/magnitized/magnitized.github.io.git
 	branch = main
+[submodule "myblog/neverm0r.github.io"]
+	path = myblog/neverm0r.github.io
+	url = https://github.com/neverm0r/neverm0r.github.io
+	branch = main
