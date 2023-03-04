@@ -9,3 +9,7 @@
 	path = myblog/neverm0r.github.io
 	url = https://github.com/neverm0r/neverm0r.github.io
 	branch = main
+[submodule "myblog/neverm0r"]
+	path = myblog/neverm0r
+	url = https://github.com/neverm0r/neverm0r.github.io
+	branch = main
